@@ -1,0 +1,16 @@
+<?php
+$a=array(
+    $aamir=array(
+        "php"=90;
+        "math"=99;
+        "english"=88;
+    );
+    "owais"=array(
+        "php"=99;
+        "math"=98;
+        "english"=89;
+    );
+);
+     $a=["amir"]["php"];
+echo"$a";   
+?>

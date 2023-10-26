@@ -1,0 +1,10 @@
+<?php
+$NAME=$_POST['fname'];
+$PASSWORD=$_POST['pass'];
+$QUALFICATION=$_POST['qual'];
+$AGE=$_POST['Page'];
+echo"$NAME";
+echo"$PASSWORD";
+echo"$QUALFICATION";
+echo"$AGE";
+?>
